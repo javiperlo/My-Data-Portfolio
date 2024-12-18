@@ -15,7 +15,7 @@ Welcome to my data portfolio! This is where I showcase an overview of the projec
 
 | Project Link | Skills | Project Description | 
 |---|---|---|
-| 🏥 [SQL Project | [Patient Health Management System](https://github.com/katiehuangx/Serious-SQL-Apprenticeship/blob/main/Health%20Analytics%20Mini%20Case%20Study.md) | Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types | This repo contains some SQL exercises for practicing SQL queries | 
+| 🏥 SQL Project - [Patient Health Management System](https://github.com/katiehuangx/Serious-SQL-Apprenticeship/blob/main/Health%20Analytics%20Mini%20Case%20Study.md) | Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types | This repo contains some SQL exercises for practicing SQL queries | 
 
 ***
 
