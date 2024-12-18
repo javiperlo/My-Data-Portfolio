@@ -22,6 +22,14 @@ Welcome to my data portfolio! This is where I showcase an overview of the projec
 
 ***
 
+## Power BI
+
+| Project Link | Skills | Project Description | 
+|---|---|---|
+| 🟦 [Telefónica Big Deals Funnel](https://github.com/katiehuangx/8-Week-SQL-Challenge) | Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types | This repo contains some SQL exercises for practicing SQL queries |  
+
+***
+
 ## Contact Me
 - LinkedIn: [@javierperezz](https://www.linkedin.com/in/javierperezz/)
 - Email: javierperezlopez.dev@gmail.com
