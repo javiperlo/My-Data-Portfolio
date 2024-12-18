@@ -26,7 +26,7 @@ Welcome to my data portfolio! This is where I showcase an overview of the projec
 
 | Project Link | Skills | Project Description | 
 |---|---|---|
-| 🟦 [Telefónica Big Deals Funnel](https://github.com/katiehuangx/8-Week-SQL-Challenge) | Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types | This repo contains some SQL exercises for practicing SQL queries |  
+| 🟦 [Telefónica Big Deals Funnel](https://github.com/katiehuangx/8-Week-SQL-Challenge) | Data Modeling, DAX, Power Query, Data Visualization, Dashboard Creation, Report Building | This project focuses on analyzing and visualizing Telefónica's sales pipeline, creating interactive dashboards and reports to track the big deals funnel, identify trends, and provide actionable insights. |  
 
 ***
 
