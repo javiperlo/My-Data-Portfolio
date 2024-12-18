@@ -1,1 +1,5 @@
-# SQL-Portfolio
+# SQL Portfolio
+
+Welcome to my SQL Portfolio!! 🚀
+This repository is a comprehensive collection of SQL case studies, solutions to problems from various platforms, and advanced projects, all designed to demonstrate my proficiency in SQL. 📊
+
