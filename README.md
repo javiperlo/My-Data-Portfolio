@@ -1,5 +1,9 @@
-# SQL Portfolio
+# 🗺 Javier Perez Portfolio
 
-Welcome to my SQL Portfolio!! 🚀
-This repository is a comprehensive collection of SQL case studies, solutions to problems from various platforms, and advanced projects, all designed to demonstrate my proficiency in SQL. 📊
+Welcome to my data portfolio! This is where I showcase an overview of the projects I've worked on in the field of data
 
+## 📚 Table of Contents
+- [Data Analyst Projects](#data-analyst-projects)
+- [SQL](#sql)
+- [Python](#python)
+- [PowerBI](#tableau)
