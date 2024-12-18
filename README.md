@@ -6,7 +6,7 @@ Welcome to my data portfolio! This is where I showcase an overview of the projec
 - [Data Analyst Projects](#data-analyst-projects)
 - [SQL](#sql)
 - [Python](#python)
-- [PowerBI](#tableau)
+- [PowerBI](#power-bi)
 - [Contact Me](#contact-me)
 
 
