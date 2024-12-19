@@ -14,7 +14,7 @@ Welcome to my data portfolio! This is where I showcase an overview of the projec
 
 | Project Link | Skills | Project Description | 
 |---|---|---|
-| 🎯 Data Analyst Project - [Analyzing Google Play Top Games](https://github.com/katiehuangx/Serious-SQL-Apprenticeship/blob/main/Health%20Analytics%20Mini%20Case%20Study.md) | Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types | This repo contains some SQL exercises for practicing SQL queries | 
+| 🎯 Data Analyst Project - [Analyzing Google Play Top Games]() | Python, Pandas, Data Analysis, SQL, Matplotlib, Seaborn, Data Visualization | In this project I study what are the three factors that make a Top Tier Google Play Game | 
 
 ***
 
