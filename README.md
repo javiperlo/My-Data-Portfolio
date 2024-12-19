@@ -14,7 +14,7 @@ Welcome to my data portfolio! This is where I showcase an overview of the projec
 
 | Project Link | Skills | Project Description | 
 |---|---|---|
-| 🎯 Data Analyst Project - [Analyzing Google Play Top Apps]() | Python, Pandas, Data Analysis, SQL, Matplotlib, Seaborn, Data Visualization | In this project I study what are the three factors that make a Top Tier Google Play App | 
+| 🎯 Data Analyst Project - [Analyzing Google Play Top Apps](https://github.com/javiperlo/Data-Analysis-Projects/blob/main/Play%20Store%20Apps%20Analysis/Analyzing%20The%20Factors%20of%20a%20Top%20Tier%20Google%20Play%20App.ipynb) | Python, Pandas, Data Analysis, SQL, Matplotlib, Seaborn, Data Visualization | In this project I study what are the three factors that make a Top Tier Google Play App | 
 
 ***
 
