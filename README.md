@@ -5,7 +5,6 @@ Welcome to my data portfolio! This is where I showcase an overview of the projec
 ## 📚 Table of Contents
 - [Data Analyst Projects](#data-analyst-projects)
 - [SQL](#sql)
-- [Python](#python)
 - [PowerBI](#power-bi)
 - [Contact Me](#contact-me)
 
@@ -24,13 +23,6 @@ Welcome to my data portfolio! This is where I showcase an overview of the projec
 | Project Link | Skills | Project Description | 
 |---|---|---|
 | 🏨 SQL Project - [Analyzing Hotel Bookings](https://github.com/javiperlo/SQLProjects/tree/main/analyzing_hotel_bookings) | CTEs, Window Functions, Aggregate Functions (COUNT, SUM, AVG), Views, Data Type Conversion (CONVERT, CAST), Grouping Data GROUP BY, HAVING) | In this exercise I'm analyzing the bookings of different hotels. Interpreting how does lead time affect cancellation rates and more. | 
-***
-
-## Python
-
-| Project Link | Skills | Project Description | 
-|---|---|---|
-| 🏨 Python Project - [Cambiar esto]() | CTEs, Window Functions, Aggregate Functions (COUNT, SUM, AVG), Views, Data Type Conversion (CONVERT, CAST), Grouping Data GROUP BY, HAVING) | In this exercise I'm analyzing the bookings of different hotels. Interpreting how does lead time affect cancellation rates and more. | 
 ***
 
 ## Power BI
