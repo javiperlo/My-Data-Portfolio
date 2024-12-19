@@ -24,8 +24,6 @@ Welcome to my data portfolio! This is where I showcase an overview of the projec
 | Project Link | Skills | Project Description | 
 |---|---|---|
 | 🏨 SQL Project - [Analyzing Hotel Bookings](https://github.com/javiperlo/SQLProjects/tree/main/analyzing_hotel_bookings) | CTEs, Window Functions, Aggregate Functions (COUNT, SUM, AVG), Views, Data Type Conversion (CONVERT, CAST), Grouping Data GROUP BY, HAVING) | In this exercise I'm analyzing the bookings of different hotels. Interpreting how does lead time affect cancellation rates and more. | 
-| 🛎️ SQL Project - [AirBnB Data Detection](https://github.com/katiehuangx/Serious-SQL-Apprenticeship/blob/main/Health%20Analytics%20Mini%20Case%20Study.md) | Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types | This repo contains some SQL exercises for practicing SQL queries | 
-
 ***
 
 ## Power BI
